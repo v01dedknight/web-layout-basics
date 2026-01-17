@@ -1,2 +1,18 @@
-# web-layout-basics
-A landing page for a conceptual coffee shop. This is my first project to practice HTML/CSS skills in website layout design.
+# The Green Bean — Landing Page
+
+My first project: a single-page website layout for a conceptual coffee shop.
+
+### [View live example]
+
+## Project Goals
+* Practice clean HTML markup skills.
+* Learn element positioning (Box Model, Inline-block).
+* Working with Google Fonts and visual style.
+* Creating a responsive footer.
+
+## Technologies
+* **HTML5**: semantic markup.
+* **CSS3**: custom styles, positioning, working with images.
+
+## Project Screenshot
+![The Green Bean Preview](pictures/main-image.jpg)
