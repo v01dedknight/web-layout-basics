@@ -15,4 +15,5 @@ My first project: a single-page website layout for a conceptual coffee shop.
 * **CSS3**: custom styles, positioning, working with images.
 
 ## Project Screenshot
-![The Green Bean Preview](pictures/main-image.jpg)
+![The Green Bean Preview_1](pictures/main-image.jpg)
+![The Green Bean Preview_2](pictures/main-image-bottom.jpg)
