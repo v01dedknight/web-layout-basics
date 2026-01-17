@@ -2,7 +2,7 @@
 
 My first project: a single-page website layout for a conceptual coffee shop.
 
-### [View live example]
+### [View live example](https://v01dedknight.github.io/web-layout-basics/)
 
 ## Project Goals
 * Practice clean HTML markup skills.
